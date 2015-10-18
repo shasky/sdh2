@@ -1,1 +1,2 @@
 This represents the original source code checked into GIT
+This represents a line of code change for commit 2
